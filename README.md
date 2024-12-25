@@ -42,7 +42,7 @@ Ensure you have the following installed:
 
 2. **Change the Directory **
    ```bash
-    cd directory_name
+    cd Code-Ant-AI
   
 3. **Install the Files **
 
@@ -50,10 +50,3 @@ Ensure you have the following installed:
     npm install 
    
    
-
-
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
