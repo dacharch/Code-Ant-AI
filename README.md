@@ -40,11 +40,11 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/dacharch/Code-Ant-AI.git
 
-2. **Change the Directory **
+2. **Change the Directory:**
    ```bash
     cd Code-Ant-AI
   
-3. **Install the Files **
+3. **Install the Files:**
 
   ``` bash
     npm install 
