@@ -46,7 +46,7 @@ Ensure you have the following installed:
   
 3. **Install the Files:**
 
-  ``` bash
+  ```bash
     npm install 
    
    
