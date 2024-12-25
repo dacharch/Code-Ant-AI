@@ -1,0 +1,39 @@
+.repos-boxses {
+    width: 100%;
+    margin-top:10px;
+    padding: 10px;
+    border-bottom: 1px solid #D5D7DA;
+
+}
+
+.top-boxes {
+    display: flex;
+    gap: 10px;
+}
+
+.top-text {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 120% */
+}
+
+.access-text {
+    color: #175CD3;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    
+}
+
+.bottom-boxes {
+    display: flex;
+    gap: 40px;
+    margin-top:5px ;
+}
